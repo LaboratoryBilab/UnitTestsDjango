@@ -1,0 +1,6 @@
+scipy
+numpy
+scikit-learn
+Django==2.0.3
+psutil
+django-cors-headers
