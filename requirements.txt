@@ -1,6 +1,6 @@
 scipy
 numpy
 scikit-learn
-Django==2.0.3
+Django==2.2.24
 psutil
 django-cors-headers
